@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Catherine McGrath",
+      "title": "Crypto czar David Sacks says NFTs and memecoins are collectibles, not securities - Fortune",
+      "description": "Sacks likened Trump’s recently-released memecoin to ‘a baseball card or a stamp.’",
+      "url": "https://fortune.com/crypto/2025/01/24/crypto-czar-david-sacks-memecoinsn-nfts-collectibles/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/01/GettyImages-2161586982-e1737750998636.jpg?resize=1200,600",
+      "publishedAt": "2025-01-24T22:45:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "Tesla Stock Slides as Model Y Price Hike Fuels New Car Speculation - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/tesla-stock-price-model-y-8a7ff681",
+      "urlToImage": null,
+      "publishedAt": "2025-01-24T22:13:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Filip Timotija",
+      "title": "Spirit Airlines bans ‘lewd’ clothing, tattoos - The Hill",
+      "description": "Spirit Airlines said its passengers may not be allowed to board the aircraft or can be forced to leave if they are sporting “lewd” clothing and/or have not covered “offensive” tattoos, according to updated rules.  The low-budget airline outlined in its contra…",
+      "url": "https://thehill.com/policy/transportation/5105837-spirit-airlines-rules-clothing-tattoos/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/AP23153743938413-e1697839447265.jpg?w=1280",
+      "publishedAt": "2025-01-24T22:04:00Z",
+      "content": "Skip to content\r\nSpirit Airlines said its passengers may not be allowed to board the aircraft or can be forced to leave if they are sporting “lewd” clothing and/or have not covered “offensive” tattoo… [+1364 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Nathaniel Weixel",
+      "title": "Trump FDA officially withdraws long-delayed menthol cigarette ban - The Hill",
+      "description": "The Food and Drug Administration (FDA) has withdrawn a rule that would have banned menthol cigarettes and flavored cigars, putting a formal end to a policy that had been indefinitely delayed under the Biden administration.  A regulatory filing showed the rule…",
+      "url": "https://thehill.com/policy/healthcare/5105771-trump-fda-menthol-cigarettes-ban/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/menthol_cigarettes_051723_AP.jpeg?w=1280",
+      "publishedAt": "2025-01-24T21:59:00Z",
+      "content": "Skip to content\r\nThe Food and Drug Administration (FDA) has withdrawn a rule that would have banned menthol cigarettes and flavored cigars, putting a formal end to a policy that had been indefinitely… [+2497 chars]"
+    }
+  ]
+}
